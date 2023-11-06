@@ -17,8 +17,7 @@ const slides = [
 	}
 ]
 
-let arrowRight = document.getElementById("arrow_right");
-console.log(arrowRight);
+const arrowRight = document.getElementById("arrow_right");
+const arrowLeft = document.getElementById("arrow_left");
+const dots = document.querySelectorAll('.dots');
 
-let arrowLeft = document.getElementById("arrow_left");
-console.log(arrowLeft);
